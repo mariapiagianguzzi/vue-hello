@@ -7,5 +7,6 @@ let app = new Vue({
     el: "#root",
     data: {
             message: "Che bella la vita con un bicchiere di vino!",
+            image: "img/nature.jpg"
         }
 }) 
